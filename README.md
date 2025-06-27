@@ -1,5 +1,5 @@
-<h1 align="center">مرحبًا 👋، أنا بكر</ h1>
-<h3 align="center">مطور واجهة أمامية متحمس من الهند<
+<h1 align="center">مرحبًا 👋، أنا بكر</h1>
+<h3 align="center">مطور واجهة أمامية متحمس من السعودية</h3>
 
 /h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammuod&label=Profile%20views&color=0e75b6&style=flat" alt="hammuod" /> </p>
 
