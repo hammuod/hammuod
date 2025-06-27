@@ -13,10 +13,10 @@
 
 <h3 align="left">تواصل معي:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hammuod-dev-301862343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammuod_dev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bkoor223355?igsh=MXVvaGg1cWgxemIyaA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammoud" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hammoud_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hammoud" height="30" width="40" /></a>
-<a href="https://discord.com/invite/vnv2vjrAku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hammuod_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hammuod-dev-301862343/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammuod_dev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bkoor223355?igsh=MXVvaGg1cWgxemIyaA%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammoud" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hammoud_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hammoud" height="30" width="40" /></a>
+<a href="https://discord.com/invite/vnv2vjrAku" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hammuod_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">اللغات والأدوات:</h3>
