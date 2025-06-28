@@ -9,7 +9,7 @@
 
 - 📄 تعرف على تجاربي [https://hammuod-dev.vercel.app/](https://hammuod-dev.vercel.app/)
 
-- ⚡ حقيقة ممتعة **أعتقد أنني شغوف وأستمتع بنفسي.**
+- ⚡**أعتقد أنني شغوف وأستمتع بنفسي.**
 
 <h3 align="left">تواصل معي:</h3>
 <p align="left">
